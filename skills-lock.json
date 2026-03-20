@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "skills": {
+    "code-reviewer": {
+      "source": "RightNow-AI/openfang",
+      "sourceType": "github",
+      "computedHash": "153c90b1e94667ffa7e0d2f90fed45d73f8f59958513351643e54d4723eb3aad"
+    },
+    "fastapi": {
+      "source": "fastapi/fastapi",
+      "sourceType": "github",
+      "computedHash": "ee23d5285caf055cf164ff45dd34888d381143564666baacab8aa786f22e413a"
+    },
+    "next-best-practices": {
+      "source": "vercel-labs/next-skills",
+      "sourceType": "github",
+      "computedHash": "515ba75178bd44875812d9a560bdf14651f86709f89cf1d4f209638e879807f3"
+    },
+    "next-cache-components": {
+      "source": "vercel-labs/next-skills",
+      "sourceType": "github",
+      "computedHash": "a94b83ddcd2ff1c30722577f693b1bfe32f2e1a83abdd6c08c2d6cc6753b53c8"
+    },
+    "next-upgrade": {
+      "source": "vercel-labs/next-skills",
+      "sourceType": "github",
+      "computedHash": "be6bbf6ab1dc2cc6f2505cea52d497920c04f5b532c0846ee201f6029b803fb0"
+    },
+    "nextjs-expert": {
+      "source": "RightNow-AI/openfang",
+      "sourceType": "github",
+      "computedHash": "780f833dc3ef8fabb4982abaa232132b297709d2940e935a31c2d289c0a90229"
+    },
+    "oauth-expert": {
+      "source": "RightNow-AI/openfang",
+      "sourceType": "github",
+      "computedHash": "977b78697558c50f7a3bcdb5ba891ed7cc1cfae54f9ceabd906baf23b55eb408"
+    },
+    "openapi-expert": {
+      "source": "RightNow-AI/openfang",
+      "sourceType": "github",
+      "computedHash": "1fa2f26927339ad55f1fbfd0c34683ef2a1d15006fd61802787e80c8eca9cc18"
+    },
+    "python-expert": {
+      "source": "RightNow-AI/openfang",
+      "sourceType": "github",
+      "computedHash": "16e7d8d35cba599c4f3fa3a62c0b08b723453440f9e49987588f48a2644e1ad7"
+    },
+    "react-expert": {
+      "source": "RightNow-AI/openfang",
+      "sourceType": "github",
+      "computedHash": "c8ed605caf27aea52757eb8d3a80d81f45e1abef48476afefa3a5635e5d8868b"
+    },
+    "sql-analyst": {
+      "source": "RightNow-AI/openfang",
+      "sourceType": "github",
+      "computedHash": "d527f57053fcdf5f7ed0744770afb037fb4f7b453578a173ff1cc91ce0fa3532"
+    },
+    "sqlite-expert": {
+      "source": "RightNow-AI/openfang",
+      "sourceType": "github",
+      "computedHash": "f63004999d019b0a150309ea1a20661ab3aa33267e48e26f0dfafa6f800cc122"
+    },
+    "typescript-expert": {
+      "source": "RightNow-AI/openfang",
+      "sourceType": "github",
+      "computedHash": "95fbe80c680bb69561691cdbfaff2d7613a74b8b8275069d17badbf54745ac58"
+    }
+  }
+}
